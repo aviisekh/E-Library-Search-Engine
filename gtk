@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import gtk
-execfile("hello.py")
+#execfile("hello.py")
 class PyApp(gtk.Window):
 
     def __init__(self):
